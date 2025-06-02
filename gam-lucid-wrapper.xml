@@ -6,9 +6,9 @@
       <VASTAdTagURI><![CDATA[
         https://ad.doubleclick.net/ddm/pfadx/N9281.3278422EBONY/B33031244.413070385;sz=0x0;ord=${CACHEBUSTER};dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;dc_tdv=1;dcmt=text/xml;dc_sdk_apis=[APIFRAMEWORKS];dc_omid_p=[OMIDPARTNER];dc_mpos=[BREAKPOSITION];ltd=
       ]]></VASTAdTagURI>
-      <Impression><![CDATA[
-        https://tracker.samplicio.us/tracker/de7e2de0-00fe-49a8-b372-044f37b009f8/pixel.gif?pid=%eaid!&sid=ebony.com&crid=138506233697&lid=6910081437&device_id=${ADVERTISING_IDENTIFIER_PLAIN}&cachebuster=${CACHEBUSTER}&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_508}
-      ]]></Impression>
+<Impression><![CDATA[
+  https://tracker.samplicio.us/tracker/de7e2de0-00fe-49a8-b372-044f37b009f8/pixel.gif?pid=6910081434&sid=ebony.com&crid=138506233697&lid=6910081437&device_id=${ADVERTISING_IDENTIFIER_PLAIN}&cachebuster=${CACHEBUSTER}&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_508}
+]]></Impression>
       <Creatives></Creatives>
     </Wrapper>
   </Ad>
